@@ -1,5 +1,5 @@
-import { Counter } from './Counter'
-import './styles.css'
+import { Counter } from './Counter';
+import './styles.css';
 
 export const App = () => {
   return (
@@ -7,5 +7,5 @@ export const App = () => {
       <h1>React TypeScript Webpack Starter Template</h1>
       <Counter />
     </>
-  )
-}
+  );
+};
